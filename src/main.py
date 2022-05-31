@@ -13,7 +13,7 @@ def trapezoidArea(base1, base2, height):
     return ((base1+base2)/2)*height
 
 def printShapeInfo(type, area):
-    print('The area of this '+ type + ' was '+ str(area) +'cm\u00b2')
+    print('The area of this '+ type + ' is '+ str(area) +'cm\u00b2')
 
 
 def main():
