@@ -17,8 +17,7 @@ A rectangle's area is length * width. Both length and width are passed into the 
 The area of a triangle is (base*height) / 2. Base and height will be passed as parameters into triangleArea.
 
 ## Step 4: Area of a Trapezoid
-Please see the following figure to visualize the area of a trapezoid. 
-
+Feel free to view following [link](https://www.cuemath.com/measurement/area-of-trapezoid/) to visualize the area of a trapezoid. 
 
 The area is the 1/2 * (base1 + base2) * height. Three parameters are passed into this function--base1, base2, and height. 
 
