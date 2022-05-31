@@ -1,4 +1,4 @@
-# Lab 02 - Methods and Objects
+# Lab 02 - Functions
 ## Introduction
 After completing all of the following methods, you will be expected to test each of the methods. These tests will be performed using the commented lines within your **main** method.
 
