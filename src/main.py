@@ -1,36 +1,40 @@
 PI = 3.14
 
 def circleArea(radius):
-    return PI*radius**2
+    return 0
 
 def rectangleArea(length, width):
-    return length * width
+    return 0
 
 def triangleArea(base, height):
-    return (height * base) / 2
+    return 0
 
 def trapezoidArea(base1, base2, height):
-    return ((base1+base2)/2)*height
+    return 0
 
-def printShapeInfo(type, area):
-    print('The area of this '+ type + ' is '+ str(area) +'cm\u00b2')
+def shapeInfo(type, area):
+    return ''
 
 
 def main():
-    #assume units are in cm
-    #make diagram for each area
-    circle = circleArea(5)
-    printShapeInfo('circle', circle)
+    #feel free to uncomment any of the following code in main
+    #it is included here to help you test your program
 
-    rectangle = rectangleArea(6,7)
-    printShapeInfo('rectangle', rectangle)
+    # circle = circleArea(5)
+    # print('TESTING', circleArea(5))
+    # print('TESTING', shapeInfo('circle', circle))
 
-    triangle = triangleArea(6,7)
-    printShapeInfo('triangle', triangle)
+    # rectangle = rectangleArea(6,7)
+    # print('TESTING', rectangleArea(6,7))
+    # print('TESTING', shapeInfo('rectangle', rectangle))
 
-    trapezoid = trapezoidArea(1,3,4)
-    printShapeInfo('trapezoid', trapezoid)
+    # triangle = triangleArea(6,7)
+    # print('TESTING', triangleArea(6,7))
+    # print('TESTING', shapeInfo('triangle', triangle))
 
+    # trapezoid = trapezoidArea(1,3,4)
+    # print('TESTING', trapezoidArea(1,3,4))
+    # print('TESTING', shapeInfo('trapezoid', trapezoid))
 
 if __name__ == "__main__":
     main()
