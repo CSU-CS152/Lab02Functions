@@ -96,6 +96,10 @@ area = 100.00
 | shapeInfo(shape,area)        | The area of this circle is 100.00cm²      | 
 
 
+## Submitting Your Code
+To receive credit for this lab you need to submit the lab for grading in Zybooks after clicking through the canvas link again!
+
+
 ## Review 
 ### Functions
 
