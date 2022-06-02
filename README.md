@@ -1,6 +1,6 @@
 # Lab 02 - Functions
 ## Introduction
-This lab introduces the idea of functions. Functions are self-contained parts of code meant for you to use over and over again instead of writing the same code multiple times. In this lab you will be asked to write a total of five functions. The first four functions will calculate the area of circle, rectangle, triangle, and trapezoid, respectively. The last function will print a statement about the shape given the type of shape and it's area passed in as arguments. We assume that the units are in centimeters. 
+This lab introduces the idea of functions. Functions are self-contained parts of code meant for you to use over and over again instead of writing the same code multiple times. In this lab, you will be asked to write a total of five functions. The first four functions will calculate the area of a circle, a rectangle, a triangle, and a trapezoid, respectively. The last function will print a statement about the shape. We assume that the units are in centimeters. 
 
 ## Pre-Step: Application Flow
 
