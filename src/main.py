@@ -20,19 +20,19 @@ def main():
     #feel free to uncomment any of the following code in main
     #it is included here to help you test your program
 
-    # circle = circleArea(5)
+    circle = circleArea(5)
     # print('TESTING', circleArea(5))
     # print('TESTING', shapeInfo('circle', circle))
 
-    # rectangle = rectangleArea(6,7)
+    rectangle = rectangleArea(6,7)
     # print('TESTING', rectangleArea(6,7))
     # print('TESTING', shapeInfo('rectangle', rectangle))
 
-    # triangle = triangleArea(6,7)
+    triangle = triangleArea(6,7)
     # print('TESTING', triangleArea(6,7))
     # print('TESTING', shapeInfo('triangle', triangle))
 
-    # trapezoid = trapezoidArea(1,3,4)
+    strapezoid = trapezoidArea(1,3,4)
     # print('TESTING', trapezoidArea(1,3,4))
     # print('TESTING', shapeInfo('trapezoid', trapezoid))
 
