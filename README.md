@@ -109,7 +109,7 @@ Inside of the function, I am creating a variable called area and assigning it to
 
 ``` python
 def squareArea(sideLength):
-    area = sideLength**2
+    area = sideLength*sideLength
     return area
 ```
 ### Function Calls
