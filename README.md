@@ -3,7 +3,9 @@
 This lab introduces the idea of functions. Functions are self-contained parts of code meant for you to use over and over again instead of writing the same code multiple times. In this lab, you will be asked to write a total of five functions. The first four functions will calculate the area of a circle, a rectangle, a triangle, and a trapezoid, respectively. The last function will print a statement about the shape. We assume that the units are in centimeters. 
 
 ### Testing
-An important aspect of programming includes testing your code to check for errors. A great way to test your program for this lab is to create function calls from your main method, print the returned value, and verify that the returned value is what you would expect it to be. Your program currenlty contains eight lines of code in main that are specified for testing. Feel free to uncomment and use them as you develop your program.
+An important aspect of programming includes testing your code to check for errors. A great way to test your program for this lab is to create function calls from your main method, print the returned value, and verify that the returned value is what you would expect it to be. Your program currenlty contains eight lines of code in main that are specified for testing. Feel free to uncomment and use them as you develop your program. 
+
+PLEASE NOTE: You need to delete (or comment out) each print('TESTING', ...) statement before turning in your completed program. Failure to do so may negatively impact your grade. 
 
 ## Pre-Step: Application Flow
 
