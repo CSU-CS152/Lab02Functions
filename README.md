@@ -21,12 +21,12 @@ Feel free to view following [link](https://www.cuemath.com/measurement/area-of-t
 
 The area is the 1/2 * (base1 + base2) * height. Three parameters are passed into this function--base1, base2, and height. 
 
-## Step 5: Print Shape Information
-After creating functions that will find the area of four shapes, we want to print out information about the shapes. Namely, we will print out a statment declaring the type of shape and it's area, both passed as parameters. If I passed in 'circle' as the type of the shape and 78.5 as the area, I want the function to print out:
+## Step 5: Return Shape Information
+After creating functions that will find the area of four shapes, we want to return information about the shapes. Namely, we will return a statment declaring the type of shape and it's area, both passed as parameters. If I passed in 'circle' as the type of the shape and 78.5 as the area, I want the function to return:
 
 The area of this circle is $78.5cm^2$
 
-To be able to print out your area variable, cast the variable to a String type. 
+To be able to return your area variable, cast the variable to a String or use String formatting if you know how to. 
 
 Also note, the squared symbol is a special unicode symbol. It can be written into a String using the following sequence of characters: \u00b2. The following example shows the code and output that uses this special character.
 
